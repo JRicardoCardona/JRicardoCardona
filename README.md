@@ -2,12 +2,13 @@
 
 ## A little bit about Me:
 
-- 🎓 Final year student at the Costa Rica Institute of Technology (TEC)
-- 🔭 Currently working on personal projects in data mining, AI, and backend development
-- 🌱 Currently developing my skills in data analysis and good software design
--  Ask me about, SOLID principles and AI modeling
-
-- ⚡ Fun fact: I love reading and learning new things
+- 🎓 Passionate final year student at the Costa Rica Institute of Technology (TEC)
+- 🔭 Currently working on personal projects in the fields of data mining, AI, and backend development
+- 🌱 Continuously expanding my skills in data analysis and implementing best practices in software design
+- 💡 Proficient in applying SOLID principles to create maintainable and scalable code
+- 🤖 Enthusiastic about AI modeling and leveraging machine learning techniques to solve complex problems
+- 📚 Avid reader and lifelong learner, always eager to explore new technologies and concepts
+- 🌐 Bilingual in English and Spanish
 
 ## Skills
 
