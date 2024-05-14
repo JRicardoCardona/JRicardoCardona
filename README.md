@@ -2,7 +2,7 @@
 
 ## A little bit about Me:
 
-- 🎓 Passionate final year student at the Costa Rica Institute of Technology (TEC)
+- 🎓 Final year student at the Costa Rica Institute of Technology (TEC)
 - 🔭 Currently working on personal projects in the fields of data mining, AI, and backend development
 - 🌱 Continuously expanding my skills in data analysis and implementing best practices in software design
 - 💡 Proficient in applying SOLID principles to create maintainable and scalable code
