@@ -37,6 +37,8 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat-square&logo=huggingface&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-8B0000?style=flat-square&logo=optuna&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3F5A89?style=flat-square&logo=seaborn&logoColor=white)
 
 ### Databases
 
