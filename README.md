@@ -4,7 +4,7 @@
 
 🎓 Final year student at the Tecnológico de Costa Rica (TEC) | 🌐 Bilingual (English & Spanish)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-ricardo-cardona-quesada) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-ricardo-cardona-quesada-data-scientist) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRicardoCardona)
 
 ---
@@ -89,7 +89,7 @@ Passionate data scientist and software engineer with a strong foundation in AI, 
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-- 💼 [LinkedIn](www.linkedin.com/in/josé-ricardo-cardona-quesada) 
+- 💼 [LinkedIn](www.linkedin.com/in/josé-ricardo-cardona-quesada-data-scientist) 
 - 📧 [Email](jose.r.cardona@outlook.com) 
 
 ---
