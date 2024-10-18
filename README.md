@@ -79,12 +79,6 @@ Passionate data scientist and software engineer with a strong foundation in AI, 
 
 ---
 
-## 📊 GitHub Stats
-
-![JoseR GitHub stats](https://github-readme-stats.vercel.app/api?username=JRicardoCardona&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
